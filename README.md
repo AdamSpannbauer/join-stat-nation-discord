@@ -5,7 +5,7 @@ Discord is a communication tool with many UTK faculty and students around to hel
 1. [Click here to join](https://discord.gg/b6ZZrtNVub)
 2. Verify your UTK email
    1. Go to the [`#auth`](https://discord.com/channels/715538203716878338/876126440012255232) "channel"
-      * <img src="/Users/adamspannbauer/Library/Application Support/typora-user-images/image-20230816083453817.png" width="20%">
+      * <img src="readme/auth-channel-sidebar.png" width="20%">
    2. In the [`#auth`](https://discord.com/channels/715538203716878338/876126440012255232) channel, send a message like: `?auth yournetID`
       *  Example: if your email is `aspannba@utk.edu` your message should be `?auth aspannba`
    3. Receive an email from the discord with a verification code
@@ -23,8 +23,8 @@ Discord is a communication tool with many UTK faculty and students around to hel
         * If I wanted to join Stats 201 channels I would click the :one: that appears below Dennis's message.  
         * In the below screenshot, the :one: you should click has the number 2211 beside it, you'll see this number increase when you click it. 
         * DO NOT click the :one: that has - Stats 201 beside it, that will do nothing.
-      * <img src="/Users/adamspannbauer/Library/Application Support/typora-user-images/image-20230816084311132.png" width="60%">
+      * <img src="readme/class-role-message.png" width="60%">
       * To leave a class you can click on the same button again to have the channels disappear
 4. Done! Explore and engage!
    * Once you've completed step 3 you should see your class's channels appear in the side bar
-   * <img src="/Users/adamspannbauer/Library/Application Support/typora-user-images/image-20230816084904888.png" width="20%">
+   * <img src="readme/class-channel-sidebar.png" width="20%">

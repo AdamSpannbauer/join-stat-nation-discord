@@ -12,13 +12,9 @@ Discord is a communication tool with many UTK faculty and students around to hel
       * Make sure to check spam folder if you don't see an email!
    4. Back in the [#auth](https://discord.com/channels/715538203716878338/876126440012255232) channel, type `?verify yourverificationcode`
       * Example: if the email said you code was 3456789 your message should be `?verify 3456789`
-
 3. Join your class's channel(s)!
-
    1. Go to the [#request-class-role](https://discord.com/channels/715538203716878338/715566787118235730) channel
-
    2. Click on the reaction that corresponds to your class (image below)
-
       * Example:
         * If I wanted to join Stats 201 channels I would click the :one: that appears below Dennis's message.  
         * In the below screenshot, the :one: you should click has the number 2211 beside it, you'll see this number increase when you click it. 

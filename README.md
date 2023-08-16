@@ -4,18 +4,18 @@ Discord is a communication tool with many UTK faculty and students around to hel
 
 1. [Click here to join](https://discord.gg/b6ZZrtNVub)
 2. Verify your UTK email
-   1. Go to the [`#auth`](https://discord.com/channels/715538203716878338/876126440012255232) "channel"
+   1. Go to the [#auth](https://discord.com/channels/715538203716878338/876126440012255232) "channel"
       * <img src="readme/auth-channel-sidebar.png" width="20%">
-   2. In the [`#auth`](https://discord.com/channels/715538203716878338/876126440012255232) channel, send a message like: `?auth yournetID`
+   2. In the [#auth](https://discord.com/channels/715538203716878338/876126440012255232) channel, send a message like: `?auth yournetID`
       *  Example: if your email is `aspannba@utk.edu` your message should be `?auth aspannba`
    3. Receive an email from the discord with a verification code
       * Make sure to check spam folder if you don't see an email!
-   4. Back in the [`#auth`](https://discord.com/channels/715538203716878338/876126440012255232) channel, type `?verify yourverificationcode`
+   4. Back in the [#auth](https://discord.com/channels/715538203716878338/876126440012255232) channel, type `?verify yourverificationcode`
       * Example: if the email said you code was 3456789 your message should be `?verify 3456789`
 
 3. Join your class's channel(s)!
 
-   1. Go to the [`#request-class-role`](https://discord.com/channels/715538203716878338/715566787118235730) channel
+   1. Go to the [#request-class-role](https://discord.com/channels/715538203716878338/715566787118235730) channel
 
    2. Click on the reaction that corresponds to your class (image below)
 

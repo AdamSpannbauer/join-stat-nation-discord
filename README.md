@@ -1,4 +1,4 @@
-## Joining Stat Nation Discord
+# Joining Stat Nation Discord
 
 Discord is a communication tool with many UTK faculty and students around to help things out.
 
